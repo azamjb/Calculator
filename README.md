@@ -1,5 +1,7 @@
 # CalculatorApp
-Calculator IOS app created using Swift. Has basic functionality ( + - x ÷ )
+Calculator IOS app created using Swift!
+
+Has basic functionality ( + - x ÷ )
 
 Creating this project helped me to practice building programmatic UI and further my knowledge on IOS app development
 
